@@ -1,0 +1,9 @@
+# Include vercel.txt first
+-r vercel.txt
+
+# Additional local-only dependencies
+undetected-chromedriver==3.5.4
+selenium==4.15.0
+selenium-wire==5.1.0
+ffmpeg-python==0.2.0
+pym3u8downloader==0.1.0
